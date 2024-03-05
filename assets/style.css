@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+section h1{
+    color: darkgreen;
+    text-align: center;
+    font-size: 35px;
+}
+
+section p {
+    text-align: justify;
+}
+
+footer p{
+    color: white;
+    font-weight: bold;
+}
